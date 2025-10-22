@@ -14,5 +14,7 @@ function saluer(nom) {
   // Placeholder neutre : ne fait rien et retourne undefined.
 }
 
+
+
 // Ne pas modifier la ligne ci-dessous
 module.exports = { saluer }
